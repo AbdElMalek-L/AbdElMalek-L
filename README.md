@@ -3,7 +3,6 @@
 **Robotics & IoT Engineer**  
 Building bridges between silicon and reality.
 
----
 
 ## Focus Areas
 - Autonomous Systems
@@ -11,7 +10,6 @@ Building bridges between silicon and reality.
 - Edge Computing
 - Human-Machine Interfaces
 
----
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -21,7 +19,6 @@ Building bridges between silicon and reality.
 ![LoRa](https://img.shields.io/badge/LoRa-7D4698?logo=lorawan&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
----
 
 ## Recent Projects
 
@@ -41,13 +38,10 @@ AI-powered robot station for school assistance and interactive learning
 Smart vacuum prototype with pathfinding algorithms and obstacle detection
 
 
----
-
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbdElMalek-L)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:you@email.com)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](abdelmalek.lamkadem.23@ump.ac.ma)
 
----
 
 ```text
 Current Focus: Making machines perceive better
